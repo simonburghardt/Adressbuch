@@ -1,0 +1,31 @@
+[
+    {
+        "Anrede": "hrr",
+        "Name": "simon",
+        "Vorname": "burghardt",
+        "Strasse": "d",
+        "Hausnummer": "d",
+        "PLZ": "d",
+        "Stadt": "d",
+        "Rufnummern": [
+            {
+                "Typ": "Telefon",
+                "Nummer": "d"
+            },
+            {
+                "Typ": "Mobil",
+                "Nummer": "d"
+            }
+        ],
+        "E-Mail-Adressen": [
+            {
+                "Typ": "Privat",
+                "E-Mail": "d"
+            },
+            {
+                "Typ": "Gesch\u00e4ftlich",
+                "E-Mail": "d"
+            }
+        ]
+    }
+]

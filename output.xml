@@ -1,0 +1,11 @@
+<Adressbuch>
+    <Kontakt>
+        <Anrede>Herr</Anrede>
+        <Nachname>Mpller</Nachname>
+        <E-Mail Typ="Mobil">
+            <Nummer>123566</Nummer>
+        </E-Mail>
+        <E-Mail Typ="privat">
+            <Nummer>123566</Nummer>
+        </E-Mail>
+    </Kontakt><Kontakt><Anrede>Herr</Anrede><Nachname>Mpller</Nachname></Kontakt></Adressbuch>

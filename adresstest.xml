@@ -1,0 +1,23 @@
+<Adressbuch>
+    <Kontakt>
+        <Anrede>Herr</Anrede>
+        <Name>Burghardt</Name>
+        <Vorname>Simon</Vorname>
+        <Strasse>ddd</Strasse>
+        <Hausnummer>ddd</Hausnummer>
+        <PLZ>dd</PLZ>
+        <Stadt>ddd</Stadt>
+        <Rufnummern Typ="Telefon">
+            <Nummer>ddd</Nummer>
+        </Rufnummern>
+        <Rufnummern Typ="Mobil">
+            <Nummer>ddd</Nummer>
+        </Rufnummern>
+        <E-Mail-Adressen Typ="Privat">
+            <E-Mail>ddd</E-Mail>
+        </E-Mail-Adressen>
+        <E-Mail-Adressen Typ="Gesch&#228;ftlich">
+            <E-Mail>ddd</E-Mail>
+        </E-Mail-Adressen>
+    </Kontakt>
+</Adressbuch>

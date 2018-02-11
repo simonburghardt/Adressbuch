@@ -1,0 +1,62 @@
+{
+  "_default": {
+    "1": {
+      "Anrede": "Herr",
+      "Name": "Burghard",
+      "Vorname": "Simon",
+      "Strasse": "hofweg",
+      "Hausnummer": "asdasddsa",
+      "PLZ": "71364",
+      "Stadt": "asdasdasd",
+      "Rufnummern": [
+        {
+          "Typ": "Telefon",
+          "Nummer": "asddsaads"
+        },
+        {
+          "Typ": "Mobil",
+          "Nummer": "dasdsa"
+        }
+      ],
+      "E-Mail-Adressen": [
+        {
+          "Typ": "Privat",
+          "E-Mail": "dassda"
+        },
+        {
+          "Typ": "Gesch\u00e4ftlich",
+          "E-Mail": "sdadsa"
+        }
+      ]
+    },
+    "2": {
+      "Anrede": "Herr",
+      "Name": "Simon",
+      "Vorname": "Burghardt",
+      "Strasse": "ddddddd",
+      "Hausnummer": "ddddddd",
+      "PLZ": "dddddd",
+      "Stadt": "dddd",
+      "Rufnummern": [
+        {
+          "Typ": "Telefon",
+          "Nummer": "ddddd"
+        },
+        {
+          "Typ": "Mobil",
+          "Nummer": "ddddd"
+        }
+      ],
+      "E-Mail-Adressen": [
+        {
+          "Typ": "Privat",
+          "E-Mail": "dddd"
+        },
+        {
+          "Typ": "Gesch\u00e4ftlich",
+          "E-Mail": "ddd"
+        }
+      ]
+    }
+  }
+}

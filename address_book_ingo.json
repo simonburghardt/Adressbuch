@@ -1,0 +1,60 @@
+[
+	{
+		"Anrede": "Herr",
+		"Name": "Lars",
+		"Vorname": "Lego",
+		"Straße": "Elfenstraße",
+		"Hausnummer": 15,
+		"PLZ": 235678,
+		"Stadt": "Elbenstadt",
+		"Rufnummern": [
+			{
+				"Typ": "Telefon",
+				"Nummer": "236789"
+			},
+			{
+				"Typ": "Mobil",
+				"Nummer": "236879-236236"
+			}
+		],
+		"E-Mail-Adressen": [
+			{
+				"Typ": "Privat",
+				"E-Mail": "email@gmx.de"
+			},
+			{
+				"Typ": "Geschäftlich",
+				"E-Mail": "email@gmx.de"
+			}
+		]
+	},
+	{
+		"Anrede": "Herr",
+		"Name": "Gimmli",
+		"Vorname": "Gammler",
+		"Straße": "Bergstraße",
+		"Hausnummer": 125,
+		"PLZ": 235890,
+		"Stadt": "Bergstadt",
+		"Rufnummern": [
+			{
+				"Typ": "Telefon",
+				"Nummer": "896645"
+			},
+			{
+				"Typ": "Mobil",
+				"Nummer": "3475-236236"
+			}
+		],
+		"E-Mail-Adressen": [
+			{
+				"Typ": "Privat",
+				"E-Mail": "email@private.de"
+			},
+			{
+				"Typ": "Geschäftlich",
+				"E-Mail": "email@business.de"
+			}
+		]
+	}
+]
